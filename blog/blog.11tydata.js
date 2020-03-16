@@ -1,6 +1,6 @@
 module.exports = () => {
-    return {
+    return ({
         "layout" : "Layout.liquid",
         "tags" : "post"
-    }
+    })
 } ;
